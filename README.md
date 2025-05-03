@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Youssef Jo (J7) 👋
 
-<!--
-**Y0J7/Y0J7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔒 Aspiring Ethical Hacker
+- 🤖 Builder of Assistive Tech and ROV Systems
+- 🧠 Passionate about helping others and making a difference with code
+- 🌍 Based in Alexandria, Egypt
 
-Here are some ideas to get you started:
+💼 Projects I'm proud of:
+- Assistive Communication Devices (OpenCV + Raspberry Pi)
+- ROV Software Systems
+- Community Learning Initiative (helped over 600 people)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: youssef32155@gmail.com
