@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef Jo (J7)</h1>
 <h3 align="center">17-year-old tech enthusiast, ROV software lead, and aspiring ethical hacker from Alexandria, Egypt 🇪🇬</h3>
 
-<img align="right" src="https://github.com/Y0J7/Y0J7/assets/your-avatar.png" width="250" alt="Professional illustration or avatar"/>
+
 
 ---
 
