@@ -1,29 +1,50 @@
-# Hi there, I'm Youssef Jo (aka J7) 👋
+<h1 align="center">Hi 👋, I'm Youssef Jo (J7)</h1>
+<h3 align="center">17-year-old tech enthusiast, ROV software lead, and aspiring ethical hacker from Alexandria, Egypt 🇪🇬</h3>
 
-I'm a 17-year-old student from Alexandria, Egypt 🇪🇬, passionate about building things that matter — from electronics to software.
-
-## 🚀 About Me
-- 💻 I'm most confident in programming (Python is my favorite!), but I also enjoy editing videos, photos, and designing logos.
-- 🔧 I’ve worked with ESP32, Pi Pico, and a wide range of Python libraries.
-- 🌐 I know HTML, CSS, and use Linux, CMD, and PowerShell daily.
-- 🤖 Currently leading the software team on an ROV project.
-- 🧠 I’ve completed many challenges in PicoCTF and love learning through problem-solving.
-- 📷 I’ve also worked on a project using OpenCV to assist patients with motor disabilities.
-
-## 🛠 Projects
-- **Assistive Communication System**: Built from scratch using Raspberry Pi and speech recognition to help patients with ALS and similar conditions.
-- **ROV Development**: Software lead on a team building an underwater ROV.
-- **Education Initiative**: Founded and led a tech education initiative reaching over 600 students, teaching programming, physics, and research skills.
-
-## 🎯 Goals
-- Get into college and pursue a double major in **cybersecurity**, **mechanical engineering**, or **computer science**.
-- Become a **professional ethical hacker** and publish my own **startup** in tech and electronics.
-- Build inventions that make life easier and better for everyone.
-
-## 📬 Contact
-- 📧 Email: [youssef32155@gmail.com](mailto:youssef32155@gmail.com)
-- 🐙 GitHub: [Y0J7](https://github.com/Y0J7)
+<img align="right" src="https://github.com/Y0J7/Y0J7/assets/your-avatar.png" width="250" alt="Professional illustration or avatar"/>
 
 ---
 
-> “Build to solve, build to inspire.” – J7
+### 🔍 About Me
+- 🚀 I love **programming**, **robotics**, and **cybersecurity**.
+- 💻 Currently working with **ESP32**, **Pi Pico**, **OpenCV**, and building an underwater **ROV**.
+- 🛡️ Solving CTFs and security challenges on **PicoCTF**.
+- 🧠 Built a voice-controlled device to assist motor-disabled patients using **Raspberry Pi**.
+- 👨‍🏫 Launched a tech education project that reached 600+ students.
+
+---
+
+### 🎯 Goals
+- 🎓 Study **cybersecurity**, **mechanical engineering**, or **computer science**.
+- 🧑‍💻 Become a professional **ethical hacker** and inventor.
+- 🚀 Launch a tech startup and contribute open-source tools.
+
+---
+
+### 📬 Connect With Me
+<p>
+  <a href="mailto:youssef32155@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Y0J7"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30"/>
+</p>
+
+---
+
+### 🧠 Tech Philosophy
+> “Build to solve, build to inspire.” — *J7*
